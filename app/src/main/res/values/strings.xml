@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Normal_Calc</string>
+
+    <!-- Текст на кнопочки -->
+    <string name="button_plus_text">+</string>
+    <string name="button_minus_text">-</string>
+    <string name="button_mul_text">*</string>
+    <string name="button_del_text">/</string>
+    <string name="button_last_Ans">Ans</string>
+
+    <!-- для hint и прочих начальных строк-->
+    <string name="hint_number1">Input a number please</string>
+    <string name="hint_number2">and here too</string>
+    <string name="hint_result">result</string>
+    <string name="hint_last_answer">Your last answer:</string>
+
+</resources>
